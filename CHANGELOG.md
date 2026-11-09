@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.16.1](https://github.com/ROCm/spur/compare/v0.16.0...v0.16.1) (2026-11-09)
+
+
+### Bug Fixes
+
+* **sshare:** keep the caller's own rows when usage is private ([#1230](https://github.com/ROCm/spur/issues/1230)) ([f201994](https://github.com/ROCm/spur/commit/f2019947fdba6a71c98c1b649dea9f27a2988b79))
+
 ## [0.16.0](https://github.com/ROCm/spur/compare/v0.15.0...v0.16.0) (2026-11-07)
 
 
